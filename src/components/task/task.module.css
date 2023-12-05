@@ -1,0 +1,15 @@
+.selected {
+  border: 1px solid red !important;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.created {
+  color: gray;
+  font-size: 13px;
+  margin-top: 10px;
+  margin-bottom: 0;
+}

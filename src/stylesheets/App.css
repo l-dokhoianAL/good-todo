@@ -1,0 +1,15 @@
+.description {
+  color: red;
+}
+/* .products{
+  display: flex;
+} */
+
+table,
+th,
+td {
+  border: 1px solid white;
+}
+a {
+  text-decoration: none !important;
+}

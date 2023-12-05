@@ -1,0 +1,14 @@
+.modalContainer {
+  background-color: green;
+  width: 50%;
+  height: 200px;
+  margin: 0 auto;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.invalid,
+.invalid:focus {
+  border: 1px solid red;
+  box-shadow: none;
+}

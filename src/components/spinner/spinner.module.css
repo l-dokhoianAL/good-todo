@@ -1,0 +1,16 @@
+.spin {
+  width: 10rem;
+  height: 10rem;
+  border-width: 6px;
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.8);
+  z-index: 999999;
+}

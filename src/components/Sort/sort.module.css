@@ -1,0 +1,28 @@
+.button {
+  background-color: white;
+  border: none;
+  border-right: 1px solid gray;
+  padding: 0px 8px 0 8px;
+  color: gray;
+  word-wrap: break-word;
+}
+.button:hover,
+.active {
+  color: #ff4747;
+}
+.not_active {
+  color: gray;
+}
+.button:last-child {
+  border-right: none;
+}
+.button_container {
+  padding: 5px;
+  border: 1px solid gray;
+  display: flex;
+}
+.container {
+  margin-top: 5px;
+  display: flex;
+  align-items: center;
+}
